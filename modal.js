@@ -1,0 +1,1 @@
+const m=document.getElementById("gameModal"),b=document.getElementById("openGamingModal"),c=document.querySelector(".close-btn");b&&m&&(b.onclick=()=>m.style.display="flex",c.onclick=()=>m.style.display="none",window.onclick=e=>{e.target==m&&(m.style.display="none")});
