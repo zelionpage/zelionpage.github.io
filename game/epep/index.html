@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Glory 70⭐ Showcase</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+           :root {
+      --bg: #141e30;
+      --fg: #e0e0e0;
+      --bg-alt: rgba(255,255,255,0.05);
+      --accent: #00ffc3;
+      --font: 'Poppins', sans-serif;
+      --bar-bg: rgba(255,255,255,0.1);
+    }
+    /* Light theme via class */
+    html.light {
+      --bg: #f5f5f5;
+      --fg: #222;
+      --bg-alt: rgba(0,0,0,0.05);
+      --accent: #0066cc;
+    }
+        body {
+            background-color: var(--bg);
+            color: #e2e8f0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .card-stat {
+    background: var(--bg-alt);
+    border: 1px solid var(--bar-bg);
+    border-radius: 12px;
+    opacity: 0;
+    backdrop-filter: blur(5px); /* Efek kaca buram (Glassmorphism) */
+}
+    </style>
+</head>
+<body class="min-h-screen flex flex-col items-center justify-start p-4 md:p-8">
+
+    <!-- CONTAINER UTAMA -->
+    <div class="w-full max-w-2xl bg-[#161920] rounded-2xl border border-gray-800 p-6 shadow-2xl space-y-8">
+        
+        <!-- HERO SECTION -->
+        <div class="flex flex-col items-center text-center space-y-3">
+            <!-- Foto Profil / Avatar -->
+            <div class="w-24 h-24 rounded-full border-4 border-yellow-500 overflow-hidden shadow-lg shadow-yellow-500/20">
+                <img src="https://via.placeholder.com/150" alt="Avatar ML" class="w-full h-full object-cover">
+            </div>
+            <!-- Nama & Rank -->
+            <div>
+                <h1 class="text-2xl font-black tracking-wide text-white uppercase">7G゜Leeﾠᴳᵒᵈ</h1>
+                <p class="text-xs text-yellow-500 font-semibold tracking-widest mt-1 bg-yellow-500/10 px-3 py-1 rounded-full inline-block">
+                    🏆 MASTER 89 STARS (CSR)
+                </p>
+            </div>
+            <p class="text-sm text-gray-400 max-w-sm">
+                   "Mekanik nempel, aim kuning. Spesialis Rusher / Frontliner di game haram."
+            </p>
+        </div>
+
+        <!-- STATS SHOWCASE -->
+        <div class="grid grid-cols-3 gap-3 text-center">
+            <div class="bg-[#1e2330] p-3 rounded-xl border border-gray-800">
+                <p class="text-xs text-gray-400">Main Role</p>
+                <p class="text-sm font-bold text-white mt-1">Rusher / RF</p>
+            </div>
+            <div class="bg-[#1e2330] p-3 rounded-xl border border-gray-800">
+                <p class="text-xs text-gray-400">Current Stars</p>
+                <p class="text-sm font-bold text-yellow-500 mt-1">89 ⭐</p>
+            </div>
+            <div class="bg-[#1e2330] p-3 rounded-xl border border-gray-800">
+                <p class="text-xs text-gray-400">Highest WR</p>
+                <p class="text-sm font-bold text-green-400 mt-1">60%</p>
+            </div>
+        </div>
+
+        <!-- HIGHLIGHT VIDEO (EMBED) -->
+        <div class="space-y-3">
+            <h2 class="text-lg font-bold text-white flex items-center gap-2">
+                🎬 Best Gameplay Clip
+            </h2>
+            <!-- Wadah Video Aspect Ratio 16:9 (Bisa diganti rasio TikTok kalau mau) -->
+            <div class="w-full aspect-video rounded-xl overflow-hidden border border-gray-800 shadow-md">
+                <!-- Ganti LINK_VIDEO_YT dengan link embed youtube lo -->
+                <iframe class="w-full h-full" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="MLBB Highlight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </div>
+
+        <!-- SOCIAL MEDIA LINKS -->
+       
+
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="mt-8 text-xs text-gray-600">
+          &copy; 2026 SkyGhost - All rights reserved.
+     </footer>
+
+</body>
+</html>
