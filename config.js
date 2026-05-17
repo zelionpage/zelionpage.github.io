@@ -49,7 +49,7 @@ const MY_PROJECTS = [
     desc: "Fast and clean YouTube to MP3 converter tool without annoying pop-up ads.",
     tech: ["Node.js", "FFmpeg"],
     launchLink: "#",
-    moreLink: "projects/3/index.html",
+    moreLink: "#",
     type: "standard"
   },
   {
@@ -69,7 +69,7 @@ const MY_PROJECTS = [
     desc: "The next evolution of WhatsApp automation. Integrating smart logic with Node.js for a robust experience.",
     tech: ["Node.js", "WA-Web.js", "FFmpeg"],
     launchLink: "#",
-    moreLink: "projects/4/index.html",
+    moreLink: "#",
     type: "wa-ai-card"
   },
   {
@@ -79,7 +79,7 @@ const MY_PROJECTS = [
     desc: "Custom LLM integration for a personalized chat experience. Focusing on speed and UI simplicity.",
     tech: ["Python", "API"],
     launchLink: "#",
-    moreLink: "projects/2/index.html",
+    moreLink: "#",
     type: "ai-card"
   },
 {
@@ -89,7 +89,7 @@ const MY_PROJECTS = [
     desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     tech: ["dum", "dum"],
     launchLink: "#",
-    moreLink: "projects/2/index.html",
+    moreLink: "#",
     type: "standard"
   },
 {
@@ -99,7 +99,7 @@ const MY_PROJECTS = [
     desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     tech: ["dum", "dum"],
     launchLink: "#",
-    moreLink: "projects/2/index.html",
+    moreLink: "#",
     type: "standard"
   },
 {
@@ -109,7 +109,7 @@ const MY_PROJECTS = [
     desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     tech: ["dum", "dum"],
     launchLink: "#",
-    moreLink: "projects/2/index.html",
+    moreLink: "#",
     type: "standard"
   }
 ];
