@@ -1,0 +1,6 @@
+ <svg class="knight-svg" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+            <path class="knight-path" d="M50 10 L30 30 L30 60 L50 90 L70 60 L70 30 Z M45" 
+                  fill="none" stroke="#00d2ff" stroke-width="2" />
+            <!-- Ornamen Bulu/Plume Ksatria -->
+            <path class="plume-path" d="M50 10 Q60 0 75 15" fill="none" stroke="#3a7bd5" stroke-width="2" />
+        </svg>
