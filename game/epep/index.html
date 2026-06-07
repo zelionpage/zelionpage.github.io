@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body class="min-h-screen flex flex-col items-center justify-start p-4 md:p-8">
+
+    <div class="w-full max-w-2xl bg-[#161920] rounded-2xl border border-gray-800 p-6 shadow-2xl space-y-8">
+        
+        <div class="flex flex-col items-center text-center space-y-3">
+            <div class="w-24 h-24 rounded-full border-4 border-yellow-500 overflow-hidden shadow-lg shadow-yellow-500/20">
+                <img id="player-avatar" src="" alt="Avatar" class="w-full h-full object-cover">
+            </div>
+            <div>
+                <h1 id="player-ign" class="text-2xl font-black tracking-wide text-white uppercase">— LOADING —</h1>
+                <p id="player-rank" class="text-xs text-yellow-500 font-semibold tracking-widest mt-1 bg-yellow-500/10 px-3 py-1 rounded-full inline-block">
+                    ...
+                </p>
+            </div>
+            <p id="player-bio" class="text-sm text-gray-400 max-w-sm">
+                ...
+            </p>
+        </div>
+
+        <div class="grid grid-cols-3 gap-3 text-center">
+            <div class="bg-[#1e2330] p-3 rounded-xl border border-gray-800">
+                <p class="text-xs text-gray-400">Main Role</p>
+                <p id="stat-role" class="text-sm font-bold text-white mt-1">-</p>
+            </div>
+            <div class="bg-[#1e2330] p-3 rounded-xl border border-gray-800">
+                <p class="text-xs text-gray-400">Current Stars</p>
+                <p id="stat-stars" class="text-sm font-bold text-yellow-500 mt-1">-</p>
+            </div>
+            <div class="bg-[#1e2330] p-3 rounded-xl border border-gray-800">
+                <p class="text-xs text-gray-400">Highest WR</p>
+                <p id="stat-wr" class="text-sm font-bold text-green-400 mt-1">-</p>
+            </div>
+        </div>
+
+        <div class="space-y-3">
+            <h2 class="text-lg font-bold text-white flex items-center gap-2">
+                🎬 Best Gameplay Clip
+            </h2>
+            <div class="w-full aspect-video rounded-xl overflow-hidden border border-gray-800 shadow-md">
+                <iframe id="video-embed" class="w-full h-full" src="" title="Gameplay Highlight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </div>
+
+    </div>
+
+    <footer class="mt-8 text-xs text-gray-600">
+          &copy; 2026 SkyGhost - All rights reserved.
+    </footer>
+
+    <script>
+      async function loadData() {
+    try {
+        // 1. Fetch file master JSON lo
+        const response = await fetch('../data.json'); // Pastikan nama file & path bener
+        const masterData = await response.json();
+
+        // 2. Ambil parameter "?game=" dari URL. Kalau polosan (ga ada parameter), otomatis ke 'mlbb'
+        const urlParams = new URLSearchParams(window.location.search);
+        const gameKey = urlParams.get('game') || 'ff'; 
+
+        // 3. Kunci data spesifik game-nya (mlbb atau ff)
+        const data = masterData[gameKey];
+
+        if (!data) {
+            console.error(`Data untuk game "${gameKey}" ga ketemu di JSON, bro!`);
+            return;
+        }
+
+        // 4. Inject ke HTML (Sesuaikan dengan nama key snake_case yang baru)
+        document.getElementById('player-avatar').src = data.avatar_url;
+        document.getElementById('player-ign').innerText = data.player_name;
+        document.getElementById('player-rank').innerText = data.rank_title;
+        document.getElementById('player-bio').innerText = data.player_bio;
+        
+        document.getElementById('stat-role').innerText = data.main_role;
+        document.getElementById('stat-stars').innerText = data.tier_stars;
+        document.getElementById('stat-wr').innerText = data.win_rate;
+        
+        document.getElementById('video-embed').src = data.video_url;
+
+    } catch (error) {
+        console.error("Gagal load data JSON bro:", error);
+    }
+}
+
+window.onload = loadData;
+
+    </script>
+</body>
+</html>
