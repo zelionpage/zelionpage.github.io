@@ -1,0 +1,63 @@
+{
+  "mlbb": {
+    "avatar_url": "https://via.placeholder.com/150",
+    "player_name": "— Zel · 立者",
+    "rank_title": "🔥HIGHEST MYTHIC IMMORTAL 104+ STARS",
+    "player_bio": "\"Mekanik tipis-tipis, makro jalan terus. Spesialis Tank di game haram.\"",
+    "stats": [
+      { "label": "Main Role", "value": "Tank / Fighter" },
+      { "label": "Current Stars", "value": "0 ⭐" },
+      { "label": "Highest WR", "value": "0.5%" }
+    ],
+    "video_url": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  },
+  "ff": {
+    "avatar_url": "https://via.placeholder.com/150",
+    "player_name": "7G゜Leeﾠᴳᵒᵈ",
+    "rank_title": "🏆 HIGHEST MASTER 130 STARS (CSR)",
+    "player_bio": "\"Mekanik nempel, aim kuning. Spesialis Rusher / Frontliner di game haram.\"",
+    "stats": [
+      { "label": "Main Role", "value": "Rusher / RF" },
+      { "label": "Current Stars", "value": "0 ⭐" },
+      { "label": "Highest WR", "value": "0%" }
+    ],
+    "video_url": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  },
+  "mc": {
+    "avatar_url": "https://via.placeholder.com/150",
+    "player_name": "PT SkyGhost MC",
+    "rank_title": "⛏️ SERVER ADMIN & BUILDER",
+    "player_bio": "\"Merancang arsitektur dunia blok dengan presisi tinggi dan logika redstone.\"",
+    "stats": [
+      { "label": "Specialty", "value": "Redstone & Build" },
+      { "label": "Playtime", "value": "1,450 Hours" },
+      { "label": "Server Role", "value": "Admin / Owner" },
+      { "label": "Server Link", "value": "null" }
+    ],
+    "video_url": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  },
+  "pubg": {
+    "avatar_url": "https://via.placeholder.com/150",
+    "player_name": "Leevi · 立者",
+    "rank_title": "👻 null TIER",
+    "player_bio": "\"Pengintai sunyi, penguasa zona akhir dengan presisi tembakan jarak jauh.\"",
+    "stats": [
+      { "label": "Preferred Role", "value": "Scout / Sniper" },
+      { "label": "Tier", "value": "null" },
+      { "label": "Win Rate", "value": "null%" }
+    ],
+    "video_url": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  },
+  "valorant": {
+    "avatar_url": "https://via.placeholder.com/150",
+    "player_name": "Leevi · 立者",
+    "rank_title": "🎯 ASCENDANT III",
+    "player_bio": "\"Flick tajam, crosshair placement rapi. Spesialis Dualist / Entry-Fragger.\"",
+    "stats": [
+      { "label": "Preferred Agent", "value": "Jett / Reyna" },
+      { "label": "K/D Ratio", "value": "1.35" },
+      { "label": "Headshot Rate", "value": "28.4%" }
+    ],
+    "video_url": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  }
+}
