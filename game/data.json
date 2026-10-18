@@ -9,7 +9,7 @@
       { "label": "Current Stars", "value": "0 ⭐" },
       { "label": "Highest WR", "value": "0.5%" }
     ],
-    "video_url": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+    "video_url": "https://www.youtube.com/embed/x"
   },
   "ff": {
     "avatar_url": "https://via.placeholder.com/150",
@@ -21,7 +21,7 @@
       { "label": "Current Stars", "value": "0 ⭐" },
       { "label": "Highest WR", "value": "0%" }
     ],
-    "video_url": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+    "video_url": "https://www.youtube.com/embed/x"
   },
   "mc": {
     "avatar_url": "https://via.placeholder.com/150",
@@ -34,7 +34,7 @@
       { "label": "Server Role", "value": "Admin / Owner" },
       { "label": "Server Link", "value": "null" }
     ],
-    "video_url": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+    "video_url": "https://www.youtube.com/embed/x"
   },
   "pubg": {
     "avatar_url": "https://via.placeholder.com/150",
@@ -46,7 +46,7 @@
       { "label": "Tier", "value": "null" },
       { "label": "Win Rate", "value": "null%" }
     ],
-    "video_url": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+    "video_url": "https://www.youtube.com/embed/x"
   },
   "valorant": {
     "avatar_url": "https://via.placeholder.com/150",
@@ -58,6 +58,6 @@
       { "label": "K/D Ratio", "value": "1.35" },
       { "label": "Headshot Rate", "value": "28.4%" }
     ],
-    "video_url": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+    "video_url": "https://www.youtube.com/embed/x"
   }
 }
