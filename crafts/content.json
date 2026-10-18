@@ -1,0 +1,192 @@
+{
+  "site_info": {
+    "brand": "Naetziel Laksono",
+    "author": "SkyGhost"
+  },
+  "navigation": {
+    "digital_arsenal": {
+      "en": "🛍️ Digital Arsenal",
+      "id": "🛍️ Arsenal Digital"
+    },
+    "back_home": {
+      "en": "← Back to Home",
+      "id": "← Kembali ke Beranda"
+    }
+  },
+  "studio_status": {
+    "en": "Studio Active: Open for Commissions",
+    "id": "Studio Aktif: Menerima Pesanan Kustom"
+  },
+  "banner": {
+    "atelier": {
+      "en": "Forged in the Forest Atelier",
+      "id": "Ditempa di Studio Hutan"
+    },
+    "craft_type": {
+      "en": "100% Pure Handcraft",
+      "id": "100% Handcraft Murni"
+    }
+  },
+  "header": {
+    "title": {
+      "en": "Natural Wood & Resin Handcrafts",
+      "id": "Kerajinan Kayu & Resin Alami"
+    },
+    "description": {
+      "en": "Pure handcrafted creations combining exotic Merbau hardwood, natural amber Damar resin, and selected fine timbers. From master chess sets to organic artisan beads and wearable accessories.",
+      "id": "Kerajinan murni buatan tangan yang memadukan kayu keras Merbau eksotis, resin Damar amber alami, dan kayu pilihan terbaik. Dari papan catur master hingga manik-manik organik dan aksesori eksklusif."
+    }
+  },
+  "trust_strip": [
+    {
+      "en": "Secure Order",
+      "id": "Pesanan Aman"
+    },
+    {
+      "en": "Worldwide Shipping",
+      "id": "Pengiriman Seluruh Indonesia"
+    },
+    {
+      "en": "Authentic Timber",
+      "id": "Kayu Alami Asli"
+    },
+    {
+      "en": "Direct Artisan Contact",
+      "id": "Kontak Seniman Langsung"
+    }
+  ],
+  "products": [
+    {
+      "badge": {
+        "en": "Signature Masterpiece",
+        "id": "Karya Unggulan"
+      },
+      "price": {
+        "en": "Custom / Pre-Order",
+        "id": "Pesan Kustom / Pre-Order"
+      },
+      "title": {
+        "en": "Apex Merbau x Damar Chess Set",
+        "id": "Set Catur Merbau x Damar Apex"
+      },
+      "description": {
+        "en": "Hand-carved premium Merbau hardwood embedded with translucent glowing Damar resin rivers. Complete with precision weighted wooden chess pieces.",
+        "id": "Papan kayu Merbau premium ukiran tangan yang disematkan aliran resin Damar amber bercahaya. Lengkap dengan set bidak kayu berbobot presisi."
+      },
+      "tech": [
+        { "en": "Merbau Hardwood", "id": "Kayu Merbau" },
+        { "en": "Damar Resin", "id": "Resin Damar" },
+        { "en": "Hand-Carved", "id": "Ukiran Tangan" }
+      ],
+      "link_text": {
+        "en": "Inquire Chess Set 🪵",
+        "id": "Pesan Set Catur 🪵"
+      },
+      "whatsapp_url": "https://wa.me/6287716630959?text=Halo%20bro,%20saya%20tertarik%20dengan%20pre-order%20Set%20Catur%20Merbau%20x%20Damar"
+    },
+    {
+      "badge": {
+        "en": "Artisan Beads & Wearables",
+        "id": "Manik & Aksesori Kriya"
+      },
+      "price": {
+        "en": "Ready / Custom Batch",
+        "id": "Ready / Batch Kustom"
+      },
+      "title": {
+        "en": "Organic Timber & Damar Resin Beads",
+        "id": "Manik Kayu Alami & Resin Damar"
+      },
+      "description": {
+        "en": "Hand-turned and polished artisan beads crafted from Merbau grain, Damar amber fusion, and rare forest woods. Perfect for custom bracelets, necklaces, and pendants.",
+        "id": "Manik-manik buatan tangan yang dibubut dan dipoles dari kayu Merbau, fusi resin Damar amber, dan kayu hutan langka. Sangat cocok untuk gelang, kalung, dan liontin kustom."
+      },
+      "tech": [
+        { "en": "Hand-Turned Beads", "id": "Manik Bubut Manual" },
+        { "en": "Damar Inlay", "id": "Inlay Damar" },
+        { "en": "Natural Oil Finish", "id": "Finishing Minyak Alami" }
+      ],
+      "link_text": {
+        "en": "Order Artisan Beads ✨",
+        "id": "Pesan Manik & Aksesori ✨"
+      },
+      "whatsapp_url": "https://wa.me/6287716630959?text=Halo%20bro,%20saya%20mau%20tanya%20tentang%20manik-manik%20dan%20aksesori%20kayu%20damar"
+    },
+    {
+      "badge": {
+        "en": "Commission Workshop",
+        "id": "Studio Komisi"
+      },
+      "price": {
+        "en": "Custom Quote",
+        "id": "Estimasi Kustom"
+      },
+      "title": {
+        "en": "Custom Hardwood & Resin Creations",
+        "id": "Kriya Kayu & Resin Kustom"
+      },
+      "description": {
+        "en": "Have a specific design in mind? We handcraft custom EDC items, keychains, coasters, and decorative display pieces tailored from high-grade timber.",
+        "id": "Punya ide atau desain impian? Kami melayani pembuatan kriya kustom seperti item EDC, gantungan kunci, coaster, hingga hiasan dekoratif dari kayu premium."
+      },
+      "tech": [
+        { "en": "Tailored Design", "id": "Desain Kustom" },
+        { "en": "Exotic Timber", "id": "Kayu Eksotis" },
+        { "en": "Precision Polish", "id": "Polak Presisi" }
+      ],
+      "link_text": {
+        "en": "Consult Custom Project ⚡",
+        "id": "Konsultasi Kustom ⚡"
+      },
+      "whatsapp_url": "https://wa.me/6287716630959?text=Halo%20bro,%20mau%20konsultasi%20pembuatan%20kerajinan%20kayu%20custom"
+    }
+  ],
+  "process_section": {
+    "title": {
+      "en": "Crafting Process & Woodworking Demos",
+      "id": "Proses Pembuatan & Demo Kriya"
+    },
+    "description": {
+      "en": "Experience the raw creation process—from turning beads on the lathe to pouring liquid Damar resin and hand-polishing timber.",
+      "id": "Saksikan langsung proses pembuatan—mulai dari membubut manik kayu, penuangan resin Damar cair, hingga pemolesan manual."
+    },
+    "videos": [
+      {
+        "title": {
+          "en": "Woodturning & Artisan Bead Shaping",
+          "id": "Proses Pembubutan & Pembentukan Manik Kayu"
+        },
+        "description": {
+          "en": "Demonstrating precision hand-turning of Merbau wood and Damar resin into smooth, glossy artisan beads.",
+          "id": "Demonstrasi pembubutan tangan presisi kayu Merbau dan resin Damar menjadi manik-manik halus dan berkilau."
+        }
+      },
+      {
+        "title": {
+          "en": "Resin Pouring & Fine Sanding Finish",
+          "id": "Penuangan Resin & Finishing Poles Tangan"
+        },
+        "description": {
+          "en": "Behind the scenes: infusing organic Damar amber resin with natural hardwood and fine sanding to a glass-like finish.",
+          "id": "Di balik layar: memadukan resin Damar amber alami dengan kayu keras dan pengampelasan halus hingga bening mengkilap."
+        }
+      }
+    ]
+  },
+  "story_section": {
+    "title": {
+      "en": "The Philosophy Behind the Craft",
+      "id": "Filosofi Di Balik Kriya"
+    },
+    "description": {
+      "en": "Crafted deep within the peaceful atmosphere of our forest studio, every creation—whether a full chess board or a single hand-carved bead—bridges pure organic materials with dedicated artisan passion. No two pieces are ever identical; every grain pattern of Merbau timber and every amber swirl of Damar resin holds its own unique piece of nature.",
+      "id": "Dibuat di tengah ketenangan studio hutan kami, setiap karya—baik papan catur penuh maupun sebutir manik ukiran tangan—menjembatani bahan organik murni dengan dedikasi kriya tingkat tinggi. Tidak ada dua karya yang identik; setiap serat kayu Merbau dan pusaran amber resin Damar menyimpan keunikan alamnya sendiri."
+    }
+  },
+  "footer": {
+    "copyright": {
+      "en": "ALL RIGHTS RESERVED.",
+      "id": "HAK CIPTA DILINDUNGI."
+    }
+  }
+}

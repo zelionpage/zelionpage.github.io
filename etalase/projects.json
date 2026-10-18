@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "category": "template",
+    "statusClass": "completed",
+    "statusText": { "en": "Template", "id": "Templat" },
+    "price": "Rp 50.000",
+    "priceStyle": "",
+    "title": { "en": "Cyber-Knight Portfolio", "id": "Portofolio Cyber-Knight" },
+    "description": { 
+      "en": "Clean, high-performance personal portfolio template featuring glassmorphism, preloader, and neon effects.", 
+      "id": "Templat portofolio pribadi berkinerja tinggi dengan efek glassmorphism, preloader, dan nuansa neon." 
+    },
+    "techStack": ["HTML", "CSS", "JS"],
+    "linkText": { "en": "Get Item 🚀", "id": "Dapatkan Item 🚀" },
+    "linkUrl": "https://wa.me/6287716630959?text=Halo%20bro,%20saya%20mau%20order%20template%20portofolio%20Cyber-Knight",
+    "isFeatured": true
+  },
+  {
+    "id": 2,
+    "category": "free",
+    "statusClass": "completed",
+    "statusText": { "en": "Free Resource", "id": "Sumber Gratis" },
+    "price": "FREE ACCESS",
+    "priceStyle": "color: #a3e635; background: rgba(163,230,53,0.1); border-color: rgba(163,230,53,0.2);",
+    "title": { "en": "YT MP3 Converter", "id": "Konverter YT MP3" },
+    "description": { 
+      "en": "Fast and clean YouTube to MP3 converter tool without annoying pop-up ads. Open source and efficient.", 
+      "id": "Alat konversi YouTube ke MP3 yang cepat dan bersih tanpa iklan pop-up yang mengganggu. Sumber terbuka." 
+    },
+    "techStack": ["Node.js", "FFmpeg"],
+    "linkText": { "en": "Get Source (Free) 📥", "id": "Ambil Sumber (Gratis) 📥" },
+    "linkUrl": "https://wa.me/6287716630959?text=Halo%20bro,%20mau%20minta%20source%20code%20YT%20MP3%20Converter",
+    "isFeatured": false
+  },
+  {
+    "id": 3,
+    "category": "free",
+    "statusClass": "completed",
+    "statusText": { "en": "Free Tool", "id": "Tool Gratis" },
+    "price": "FREE ACCESS",
+    "priceStyle": "color: #a3e635; background: rgba(163,230,53,0.1); border-color: rgba(163,230,53,0.2);",
+    "title": { "en": "Tebak Huruf Jepang", "id": "Tebak Huruf Jepang" },
+    "description": { 
+      "en": "Interactive tool to master Kanji, Hiragana, & Katakana. Features a reference table and scoring system.", 
+      "id": "Alat interaktif untuk menguasai Kanji, Hiragana, & Katakana. Dilengkapi tabel referensi dan sistem skor." 
+    },
+    "techStack": ["HTML", "CSS", "JS"],
+    "linkText": { "en": "Launch Tool 🚀", "id": "Buka Tool 🚀" },
+    "linkUrl": "../SkyGhostID-TebakHurufJepang/index.html",
+    "isFeatured": false
+  },
+  {
+    "id": 4,
+    "category": "automation",
+    "statusClass": "dev",
+    "statusText": { "en": "Automation", "id": "Otomasi" },
+    "price": "Inquire Price",
+    "priceStyle": "color: #25d366; background: rgba(37,211,102,0.1); border-color: rgba(37,211,102,0.2);",
+    "title": { "en": "Stone 2.0 Boilerplate", "id": "Boilerplate Stone 2.0" },
+    "description": { 
+      "en": "Robust WhatsApp automation base script integrated with smart logic and clean architecture.", 
+      "id": "Skrip dasar otomasi WhatsApp yang tangguh, terintegrasi dengan logika cerdas dan arsitektur bersih." 
+    },
+    "techStack": ["Node.js", "WA-Web.js", "FFmpeg"],
+    "linkText": { "en": "Inquire Script ⚡", "id": "Tanya Skrip ⚡" },
+    "linkUrl": "https://wa.me/6287716630959?text=Halo%20bro,%20mau%20tanya%20detail%20script%20Stone%202.0",
+    "isFeatured": false
+  },
+  {
+    "id": 5,
+    "category": "automation",
+    "statusClass": "dev",
+    "statusText": { "en": "Automation", "id": "Otomasi" },
+    "price": "Inquire Price",
+    "priceStyle": "color: #25d366; background: rgba(37,211,102,0.1); border-color: rgba(37,211,102,0.2);",
+    "title": { "en": "AI Chat Bot Integration", "id": "Integrasi Bot Chat AI" },
+    "description": { 
+      "en": "Custom LLM integration for a personalized chat experience focusing on speed and UI simplicity.", 
+      "id": "Integrasi LLM kustom untuk pengalaman obrolan personal yang berfokus pada kecepatan dan kesederhanaan UI." 
+    },
+    "techStack": ["Python", "API"],
+    "linkText": { "en": "Inquire Script ⚡", "id": "Tanya Skrip ⚡" },
+    "linkUrl": "https://wa.me/6287716630959?text=Halo%20bro,%20mau%20tanya%20detail%20AI%20Chat%20Bot",
+    "isFeatured": false
+  },
+  {
+    "id": 6,
+    "category": "service",
+    "statusClass": "completed",
+    "statusText": { "en": "Service", "id": "Layanan" },
+    "price": "Custom Quote",
+    "priceStyle": "color: #00ff8c; background: rgba(0,255,140,0.1); border-color: rgba(0,255,140,0.2);",
+    "title": { "en": "Custom Web Dev", "id": "Pengembangan Web Kustom" },
+    "description": { 
+      "en": "Custom landing page development focused on speed, aesthetics, and modern cyber-tactical design.", 
+      "id": "Pengembangan landing page kustom yang berfokus pada kecepatan, estetika, dan desain taktis siber modern." 
+    },
+    "techStack": ["Fullstack", "UI/UX"],
+    "linkText": { "en": "Book Commission 💻", "id": "Pesan Komisi 💻" },
+    "linkUrl": "https://wa.me/6287716630959?text=Halo%20bro,%20saya%20mau%20request%20jasa%20pembuatan%20web",
+    "isFeatured": false
+  },
+  {
+    "id": 7,
+    "category": "free",
+    "statusClass": "completed",
+    "statusText": { "en": "Free Resource", "id": "Sumber Gratis" },
+    "price": "FREE ACCESS",
+    "priceStyle": "color: #a3e635; background: rgba(163,230,53,0.1); border-color: rgba(163,230,53,0.2);",
+    "title": { "en": "Discipline & Gym Log", "id": "Catat Disiplin & Gym" },
+    "description": { 
+      "en": "The ultimate workspace template to track progressive overload, nutrition, habits, and daily execution.", 
+      "id": "Templat workspace terbaik untuk melacak beban progresif, nutrisi, kebiasaan, dan eksekusi harian." 
+    },
+    "techStack": ["Notion", "Productivity"],
+    "linkText": { "en": "Get Tracker (Free) 📥", "id": "Ambil Tracker (Gratis) 📥" },
+    "linkUrl": "https://wa.me/6287716630959?text=Halo%20bro,%20mau%20minta%20link%20gym%20tracker%20gratisnya",
+    "isFeatured": false
+  }
+]
