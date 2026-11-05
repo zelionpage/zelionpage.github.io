@@ -1,7 +1,7 @@
 {
   "site_info": {
     "brand": "Naetziel Laksono",
-    "author": "SkyGhost"
+    "author": "SkyGhostID"
   },
   "navigation": {
     "digital_arsenal": {
@@ -66,8 +66,8 @@
         "id": "Pesan Kustom / Pre-Order"
       },
       "title": {
-        "en": "Apex Merbau x Damar Chess Set",
-        "id": "Set Catur Merbau x Damar Apex"
+        "en": "Merbau x Damar Chess Set",
+        "id": "Set Catur Merbau x Damar"
       },
       "description": {
         "en": "Hand-carved premium Merbau hardwood embedded with translucent glowing Damar resin rivers. Complete with precision weighted wooden chess pieces.",
