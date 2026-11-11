@@ -12,7 +12,7 @@
       "en": "A free tool for rendering LaTeX formulas as well as integrated Markdown.", 
       "id": "Alat gratis untuk merender rumus LaTeX serta Markdown terintegrasi." 
     },
-    "techStack": ["HTML", "CSS", "JS"],
+    "techStack": ["HTML5", "CSS3", "JS", "Local Storage"],
     "linkText": { "en": "Visit Now 🚀", "id": "Kunjungi situs 🚀" },
     "linkUrl": "https://hostinginzel.my.id/SkyTeX-Studio/",
     "isFeatured": true
@@ -49,28 +49,28 @@
       "en": "Interactive tool to master Kanji, Hiragana, & Katakana. Features a reference table and scoring system.", 
       "id": "Alat interaktif untuk menguasai Kanji, Hiragana, & Katakana. Dilengkapi tabel referensi dan sistem skor." 
     },
-    "techStack": ["HTML", "CSS", "JS"],
+    "techStack": ["HTML5", "CSS3", "JS"],
     "linkText": { "en": "Visit Now 🚀", "id": "Kunjungi situs 🚀" },
     "linkUrl": "https://hostinginzel.my.id/SkyGhostID-TebakHurufJepang/index.html",
     "isFeatured": false
   },
   {
     "id": 4,
-    "date": "2026-02-01",
     "category": "automation",
-    "isAvailable": false,
-    "statusClass": "dev",
+    "date": "2026-11-11",
+    "isAvailable": true,
+    "statusClass": "completed",
     "statusText": { "en": "Automation", "id": "Otomasi" },
-    "price": "Inquire Price",
+    "price": "FREE ACCESS",
     "priceStyle": "color: #25d366; background: rgba(37,211,102,0.1); border-color: rgba(37,211,102,0.2);",
-    "title": { "en": "Stone 2.0 Boilerplate", "id": "Boilerplate Stone 2.0" },
+    "title": { "en": "Crystal 2 WhatsApp Bot", "id": "Bot WhatsApp Crystal 2" },
     "description": { 
-      "en": "Robust WhatsApp automation base script integrated with smart logic and clean architecture.", 
-      "id": "Skrip dasar otomasi WhatsApp yang tangguh, terintegrasi dengan logika cerdas dan arsitektur bersih." 
+      "en": "A luxury WhatsApp automation bot, integrated with smart logic and premium features.", 
+      "id": "Bot otomasi WhatsApp yang megah, terintegrasi dengan logika cerdas dan fitur premium." 
     },
-    "techStack": ["Node.js", "WA-Web.js", "FFmpeg"],
-    "linkText": { "en": "Coming Soon 🔒", "id": "Segera Hadir 🔒" },
-    "linkUrl": "#",
+    "techStack": ["Node.js", "WA-Web.js", "Baileys", "Python", "API"],
+    "linkText": { "en": "Visit Now 🚀", "id": "Kunjungi situs 🚀" },
+    "linkUrl": "https://wa.me/6281248030605",
     "isFeatured": false
   },
   {
