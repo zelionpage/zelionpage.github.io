@@ -7,7 +7,7 @@
     "statusText": { "en": "Free Tool", "id": "Alat Gratis" },
     "price": "FREE ACCESS",
     "priceStyle": "color: #a3e635; background: rgba(163,230,53,0.1); border-color: rgba(163,230,53,0.2);",
-    "title": { "en": "SkyTeX-Studio", "id": "Portofolio Cyber-Knight" },
+    "title": { "en": "SkyTeX-Studio", "id" : "SkyTeX-Studio"},
     "description": { 
       "en": "A free tool for rendering LaTeX formulas as well as integrated Markdown.", 
       "id": "Alat gratis untuk merender rumus LaTeX serta Markdown terintegrasi." 
