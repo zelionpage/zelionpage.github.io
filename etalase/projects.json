@@ -14,7 +14,7 @@
     },
     "techStack": ["HTML5", "CSS3", "JS", "Local Storage"],
     "linkText": { "en": "Visit Now 🚀", "id": "Kunjungi situs 🚀" },
-    "linkUrl": "https://hostinginzel.my.id/SkyTeX-Studio/",
+    "linkUrl": "https://skytexstudio.hostinginzel.my.id",
     "isFeatured": true
   },
   {
@@ -52,7 +52,7 @@
     "techStack": ["HTML5", "CSS3", "JS"],
     "linkText": { "en": "Visit Now 🚀", "id": "Kunjungi situs 🚀" },
     "linkUrl": "https://hostinginzel.my.id/SkyGhostID-TebakHurufJepang/index.html",
-    "isFeatured": false
+    "isFeatured": true
   },
   {
     "id": 4,
@@ -70,7 +70,7 @@
     },
     "techStack": ["Node.js", "WA-Web.js", "Baileys", "Python", "API"],
     "linkText": { "en": "Visit Now 🚀", "id": "Kunjungi situs 🚀" },
-    "linkUrl": "https://wa.me/6281248030605",
+    "linkUrl": "https://crystal.hostinginzel.my.id",
     "isFeatured": false
   },
   {
